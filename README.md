@@ -9,7 +9,7 @@
 This little work was made for a client of [Epimedia Estudio](https://www.epimediaestudio.com/en/)
 
 ### Live  
-* [arre[code]](https://www.arrecode.com/#/)
+* [La Reina - Mayorista](https://www.arrecode.com/#/)
 
 
 ### Features 📋

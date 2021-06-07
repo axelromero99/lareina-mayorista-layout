@@ -6,7 +6,7 @@
 
 </h1>
 
-This little work was made for a client of [Epimedia Estudio](https://www.epimediaestudio.com/en/)
+This little work was made for a client of [Epimedia Estudio](https://www.epimediaestudio.com/en/), when i was working there as a Fullstack Web Developer and Support.
 
 ### Live  
 * [La Reina - Mayorista](https://www.arrecode.com/#/)

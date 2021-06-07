@@ -52,10 +52,6 @@ Please, feel free to submitting pull requests to me.
 * [LinkedIn](https://www.linkedin.com/in/arrecode/)
 * [Github](https://github.com/axelromero99)
 
-## License 📄
-
-This project is under the License (MIT License) - see the file [LICENSE](LICENSE.md) for details.
-
 ## Express your gratitude 🎁
 
 * Tell others about this project 📢
